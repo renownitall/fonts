@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "IBM Plex",
+  "previewText": "IBM Plex is an open source typeface superfamily conceptually designed and developed by Mike Abbink at IBM in collaboration with Bold Monday to reflect the design principles of IBM and to be used for all brand material across the company internationally.",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Bold.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Bold.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-BoldItalic.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-BoldItalic.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Medium.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-MediumItalic.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Regular.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Italic.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-SemiBold.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-SemiBoldItalic.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Bold.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Bold.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Medium.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Regular.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-Italic.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Sans/static/IBMPlexSans-SemiBold.ttf",
+    "ggmono-Normal": "https://raw.githubusercontent.com/renownitall/fonts/main/IBM_Plex_Mono/IBMPlexMono-Regular.ttf"
+  }
+}
