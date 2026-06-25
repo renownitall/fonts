@@ -13,7 +13,7 @@ I mainly use this with the [raincord](https://raincord.dev) client mod on mobile
 
 1. Open Rain and go to the settings menu.
 2. Navigate to the **Fonts** section.
-3. Tap the "+" button and select "Import font entries from a link".
+3. Tap "Install from URL" (or the "+" button) and select "Import font entries from a link".
 4. Paste the raw link to my JSON mapping file:
 
    ```text
