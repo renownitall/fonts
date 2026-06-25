@@ -17,5 +17,5 @@ I mainly use this with the [raincord](https://raincord.dev) client mod on mobile
 4. Paste the raw link to my JSON mapping file:
 
    ```text
-   https://raw.githubusercontent.com/renownitall/fonts/main/mappings/rain/ibm_plex.json
+   https://raw.githubusercontent.com/renownitall/fonts/main/mappings/raincord/ibm_plex.json
    ```
