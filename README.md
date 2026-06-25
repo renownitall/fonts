@@ -12,8 +12,11 @@ This is my personal repository for swapping out Discord's default UI fonts (`ggs
 I mainly use this with the [rain](https://raincord.dev) client mod on mobile. Here's how to apply it:
 
 **1.** Open Rain and go to the settings menu.
+
 **2.** Navigate to the **Fonts** section.
+
 **3.** Tap `Install from URL` (or the `+` button), then tap `Import font entries from a link`.
+
 **4.** Paste the raw link to my JSON mapping file:
 
   ```text
@@ -23,6 +26,7 @@ I mainly use this with the [rain](https://raincord.dev) client mod on mobile. He
   and tap `Import`.
 
 **6.** Once the entries load, tap `Import` again at the bottom. You will be redirected to the previous page, and `IBM Plex` should now appear in the list.
+
 **7.** Tap `Apply`. You will receive a reminder to reload the client for the changes to take effect.
 
 All done!
