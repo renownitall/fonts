@@ -19,11 +19,11 @@ I mainly use this with the [rain](https://raincord.dev) client mod on mobile. He
 
 **4.** Paste the raw link to my JSON mapping file:
 
-  ```text
-  https://raw.githubusercontent.com/renownitall/fonts/main/mappings/raincord/ibm_plex.json
-  ```
+```text
+https://raw.githubusercontent.com/renownitall/fonts/main/mappings/raincord/ibm_plex.json
+```
 
-  and tap `Import`.
+and tap `Import`.
 
 **6.** Once the entries load, tap `Import` again at the bottom. You will be redirected to the previous page, and `IBM Plex` should now appear in the list.
 
