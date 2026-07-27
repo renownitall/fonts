@@ -1,6 +1,6 @@
 # Fonts
 
-This is my personal repository for swapping out Discord's default UI fonts (`ggsans`, `ggmono`) with [IBM Plex](https://www.ibm.com/plex/). I use this to host the raw font files and the JSON mappings so I can easily apply my custom typography across my devices.
+This is my repo for swapping out Discord's default UI fonts (`ggsans`, `ggmono`) with [IBM Plex](https://www.ibm.com/plex/). I use this to host the raw font files and the JSON mappings so I can easily apply my custom typography across my mobile devices.
 
 ## What's inside
 
