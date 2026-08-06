@@ -1,10 +1,10 @@
 # Fonts
 
-This is my repo for swapping out Discord's default UI fonts (`ggsans`, `ggmono`) with [IBM Plex](https://www.ibm.com/plex/). I use this to host the raw font files and the JSON mappings so I can easily apply my custom typography across my mobile devices.
+This is my repo for swapping out Discord's default UI fonts (`ggsans`, `ggmono`, `ABCGintoNord`) with custom typography. I use this to host the raw font files and the JSON mappings so I can easily apply my themes across my mobile devices.
 
 ## What's inside
 
-- **/src**: The raw `.ttf` font files for the IBM Plex superfamily.
+- **/src**: The raw `.ttf` font files for the various typefaces.
 - **/mappings**: The configuration files that trick Discord into loading my hosted fonts instead of its default ones.
 
 ## How I install this
@@ -17,16 +17,8 @@ I mainly use this with the [rain](https://raincord.dev) client mod on mobile. He
 
 **3.** Tap `Install from URL` (or the `+` button), then tap `Import font entries from a link`.
 
-**4.** Paste the raw link to my JSON mapping file:
+**4.** Paste the raw link to the JSON mapping file you want to use, for example:
 
 ```text
-https://raw.githubusercontent.com/renownitall/fonts/main/mappings/raincord/ibm_plex.json
+https://raw.githubusercontent.com/renownitall/fonts/main/mappings/raincord/noto_jetbrains.json
 ```
-
-and tap `Import`.
-
-**6.** Once the entries load, tap `Import` again at the bottom. You will be redirected to the previous page, and `IBM Plex` should now appear in the list.
-
-**7.** Tap `Apply`. You will receive a reminder to reload the client for the changes to take effect.
-
-All done!
