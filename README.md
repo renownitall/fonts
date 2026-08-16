@@ -7,7 +7,7 @@ This is my repo for swapping out Discord's default UI fonts (`ggsans`, `ggmono`,
 ## What's inside
 
 - **/src**: The raw `.ttf` font files for the various typefaces.
-- **/mappings**: The configuration files that trick Discord into loading my hosted fonts instead of its default ones.
+- **/mappings**: The configuration files that load my hosted fonts instead of Discord's default ones.
 
 ## How I install this
 
