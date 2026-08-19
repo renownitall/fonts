@@ -1,8 +1,8 @@
 # Fonts
 
-Hi. This is my repo for swapping out Discord's default UI fonts (`ggsans`, `ggmono`, `ABCGintoNord`) with custom ones. I use it to host the raw font files and the JSON mappings, so I can apply my themes across my mobile devices.
+Hi. This is my repo for swapping out the default UI fonts in Discord (`ggsans`, `ggmono`, `ABCGintoNord`) with custom ones. I use it to host the raw font files and the JSON mappings, so I can apply my themes across my mobile devices.
 
-## What's inside
+## Repository layout
 
 - `/src`: The raw TTF font files for the various typefaces.
 - `/mappings`: The JSON configuration files that load my hosted fonts instead of Discord's default ones.
@@ -11,7 +11,7 @@ Hi. This is my repo for swapping out Discord's default UI fonts (`ggsans`, `ggmo
 
 I use this with the [rain](https://raincord.dev) client mod on mobile. To apply a theme, follow these steps:
 
-1. In Rain, open the settings menu.
+1. In rain, open the settings menu.
 2. Open the **Fonts** section.
 3. Tap **Install from URL** or the **+** button.
 4. Tap **Import font entries from a link**.
