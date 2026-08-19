@@ -1,6 +1,6 @@
 # Fonts
 
-Hi. This is my repo for swapping out the default UI fonts in Discord (`ggsans`, `ggmono`, `ABCGintoNord`) with custom ones. I use it to host the raw font files and the JSON mappings, so I can apply my themes across my mobile devices.
+Hi. This is my repository for swapping out the default UI fonts in Discord (`ggsans`, `ggmono`, `ABCGintoNord`) with custom ones. I use it to host the raw font files and the JSON mappings, so I can apply my themes across my mobile devices.
 
 ## Repository layout
 
