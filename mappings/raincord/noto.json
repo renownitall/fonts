@@ -1,7 +1,7 @@
 {
   "spec": 1,
   "name": "Noto",
-  "previewText": "A combined typography theme using Noto Serif for headers, Noto Sans for standard UI text, and Noto Sans Mono for code blocks.",
+  "previewText": "A typography theme using Noto Serif for headers, Noto Sans for UI text, and Noto Sans Mono for code blocks.",
   "main": {
     "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Noto_Serif/static/NotoSerif-ExtraBold.ttf",
     "ggsans-Bold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Noto_Sans/static/NotoSans-Bold.ttf",

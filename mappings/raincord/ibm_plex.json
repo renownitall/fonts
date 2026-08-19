@@ -1,7 +1,7 @@
 {
   "spec": 1,
   "name": "IBM Plex",
-  "previewText": "IBM Plex is an open source typeface superfamily conceptually designed and developed by Mike Abbink at IBM in collaboration with Bold Monday to reflect the design principles of IBM and to be used for all brand material across the company internationally.",
+  "previewText": "A typography theme using IBM Plex Sans for headers and UI text, and IBM Plex Mono for code blocks.",
   "main": {
     "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/IBM_Plex_Sans/static/IBMPlexSans-Bold.ttf",
     "ggsans-Bold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/IBM_Plex_Sans/static/IBMPlexSans-Bold.ttf",
