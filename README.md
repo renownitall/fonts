@@ -17,6 +17,6 @@ I use this with the [rain](https://raincord.dev) client mod on mobile. To apply 
 4. Tap **Import font entries from a link**.
 5. Paste the raw link to the JSON mapping file you want to use, for example:
 
-```text
-https://raw.githubusercontent.com/renownitall/fonts/main/mappings/raincord/noto_jetbrains.json
-```
+   ```text
+   https://raw.githubusercontent.com/renownitall/fonts/main/mappings/raincord/noto_jetbrains.json
+   ```
