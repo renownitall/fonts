@@ -1,22 +1,27 @@
 # Fonts
 
-Hi. This is my repository for swapping out the default UI fonts in Discord (`ggsans`, `ggmono`, `ABCGintoNord`) with custom ones. I use it to host the raw font files and the JSON mappings, so I can apply my themes across my mobile devices.
+Hi. This is my repository for swapping out the default UI fonts in Discord (`ggsans`, `ggmono`, `ABCGintoNord`) with custom ones. I use it to host the raw font files and the JSON mapping, so I can apply my theme across my mobile devices.
+
+This repository contains only the theme I use. That theme uses Geist for headers and UI text with Geist Mono for code blocks, so nothing else is in here.
 
 ## Repository layout
 
-- `/src`: The raw TTF font files for the various typefaces.
-- `/mappings`: The JSON configuration files that load my hosted fonts instead of Discord's default ones.
+The repository contains the following files:
 
-## Install a theme
+- `/src/Geist` holds the TrueType font files for Geist, which the theme uses for headers and UI text.
+- `/src/Geist_Mono` holds the TrueType font files for Geist Mono, which the theme uses for code blocks.
+- `/mappings/raincord/geist.json` holds the JSON configuration that loads the hosted fonts instead of Discord's default fonts.
 
-I use this with the [rain](https://raincord.dev) client mod on mobile. To apply a theme, follow these steps:
+## Install the theme
+
+I use this with the [rain](https://raincord.dev) client mod on mobile. To apply the theme, follow these steps:
 
 1. In rain, open the settings menu.
 2. Open the **Fonts** section.
 3. Tap **Install from URL** or the **+** button.
 4. Tap **Import font entries from a link**.
-5. Paste the raw link to the JSON mapping file you want to use, for example:
+5. Paste the raw link to the JSON mapping file, for example:
 
    ```text
-   https://raw.githubusercontent.com/renownitall/fonts/main/mappings/raincord/noto_jetbrains.json
+   https://raw.githubusercontent.com/renownitall/fonts/main/mappings/raincord/geist.json
    ```

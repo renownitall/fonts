@@ -1,9 +1,9 @@
 {
   "spec": 1,
   "name": "Geist",
-  "previewText": "A typography theme using Source Serif 4 for headers, Geist for UI text, and Geist Mono for code blocks.",
+  "previewText": "A typography theme using Geist for headers and UI text, and Geist Mono for code blocks.",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Serif_4/static/SourceSerif4-ExtraBold.ttf",
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Geist/static/Geist-ExtraBold.ttf",
     "ggsans-Bold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Geist/static/Geist-Bold.ttf",
     "ggsans-BoldItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Geist/static/Geist-BoldItalic.ttf",
     "ggsans-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Geist/static/Geist-ExtraBold.ttf",
