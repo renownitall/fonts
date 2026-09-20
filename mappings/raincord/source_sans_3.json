@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Source Sans 3",
+  "previewText": "A typography theme using Source Sans 3 for headers and UI text, and Source Code Pro for code blocks.",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-ExtraBold.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-Bold.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-BoldItalic.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-ExtraBold.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-ExtraBoldItalic.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-Medium.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-MediumItalic.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-Regular.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-Italic.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-SemiBold.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-SemiBoldItalic.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-Bold.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-ExtraBold.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-Medium.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-Regular.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-Italic.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Sans_3/static/SourceSans3-SemiBold.ttf",
+    "ggmono-Normal": "https://raw.githubusercontent.com/renownitall/fonts/main/src/Source_Code_Pro/static/SourceCodePro-Regular.ttf"
+  }
+}
